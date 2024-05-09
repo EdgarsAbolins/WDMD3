@@ -1,0 +1,53 @@
+.virsraksts {
+    font-size:x-large;
+    color: rgb(39, 60, 61);
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.bilde {
+width: 500px;
+height: 250px;
+border: 2px solid rgb(90, 90, 90);
+border-radius: 5px;                                                                                                                                                                             
+}
+.linki {
+    text-decoration: none;
+    color: green;
+    text-transform: uppercase;
+}
+article>p {
+    margin-bottom: 50px;
+}
+.kategorija {
+    background-color: rgb(26, 18, 18);
+    border-radius: 5px;
+    color: aliceblue;
+    padding: 5px ;
+    margin-right: 10px;
+}
+.container>div>article {
+    background-color: rgb(230, 230, 230);
+    margin: 20px;
+    width: 500px;
+    padding: 20px;
+    border-radius: 10px;
+}
+nav>a {
+    text-decoration: none;
+    padding-right: 30px;
+    color: rgb(7, 7, 7);
+    text-transform: uppercase;
+}
+body {
+    background-color: #F5F5F5;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Kategorijas-grupa {
+    padding: 20px 20px 40px 20px;
+    background-color: rgb(230, 230, 230);
+    margin-bottom: 30px;
+}
+.color-red {
+    color: red;
+    font-size: large;
+}
